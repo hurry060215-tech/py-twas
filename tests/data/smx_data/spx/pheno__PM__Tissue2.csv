@@ -1,0 +1,3 @@
+gene,gene_name,zscore,effect_size,pvalue,var_g,pred_perf_r2,pred_perf_pval,pred_perf_qval,n_snps_used,n_snps_in_cov,n_snps_in_model
+ENSG00000000002.1,GENE_B,2.069226147890006,,0.038524870110977154,0.418056773811054,0.3,0.03,0.03,4,4,4
+ENSG00000000001.1,GENE_A,-0.884057828677632,,0.3766649965517397,0.6776556907423393,0.3,0.03,0.03,5,5,5
